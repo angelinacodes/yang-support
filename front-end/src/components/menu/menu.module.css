@@ -1,0 +1,7 @@
+.container {
+  flex-grow: 1;
+}
+
+.appBar {
+  background-color: red;
+}
