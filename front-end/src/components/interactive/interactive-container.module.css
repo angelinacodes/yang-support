@@ -1,0 +1,14 @@
+.tileContainer {
+  /* width: 500;
+  height: 450; */
+  /* border: 2px solid; */
+}
+
+.tile {
+  /* width: 100;
+  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px dotted; */
+}
